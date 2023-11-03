@@ -15,9 +15,11 @@ Awesome simple admin module 仓库用于大家分享自己基于 simple admin �
 
 | 服务名称 - Service Name | 服务缩写 - Service Short Name | 服务类型 - Service Type | 服务介绍 - Introduction |
 | ------------------------|-------------------------------|------------------------|-------------------------|
+|                     |                           |                     |
 
 ## 社区模块 | Community Modules
 > 若您的项目是一个 RPC 或者单体服务模块，用于灵活接入其他项目的模块可以放这里。 If your project is an RPC or monolithic service module, the module designed for flexible integration with other projects can be placed here.
 
 | 服务名称 - Service Name | 服务缩写 - Service Short Name | 服务类型 - Service Type | 服务介绍 - Introduction |
 | ------------------------|-------------------------------|------------------------|-------------------------|
+|                 |                          |                            |

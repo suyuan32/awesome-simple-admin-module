@@ -15,6 +15,7 @@ Awesome simple admin module 仓库用于大家分享自己基于 simple admin �
 
 | 服务名称 - Service Name | 服务缩写 - Service Short Name | 服务类型 - Service Type | 服务介绍 - Introduction |
 | ------------------------|-------------------------------|------------------------|-------------------------|
+| [Simple Admin Pay](https://gitee.com/agui-coder/simple-admin-pay) | pay | API - RPC | Simple Admin 的支付服务，现支持微信支付。Payment service for Simple Admin, currently supporting WeChat Pay. |
 |                     |                           |                     |
 
 ## 社区模块 | Community Modules
